@@ -38,5 +38,5 @@ width: 50%;
 }
 .grid-container{
   display: grid;
-  grid-templare-columns: 300px 200px;
+  grid-template-columns: 300px 200px;
 }
