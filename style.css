@@ -38,5 +38,5 @@ width: 50%;
 }
 .grid-container{
   display: grid;
-  grid-template-columns: 3000px 2000px;
+  grid-template-columns: 3fr 2fr;
 }
