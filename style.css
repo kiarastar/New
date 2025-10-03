@@ -38,5 +38,5 @@ width: 50%;
 }
 .grid-container{
   display: grid;
-  grid-templare-columns: repeat (4, 100px);
+  grid-templare-columns: 300px 200px;
 }
