@@ -39,6 +39,7 @@ width: 50%;
 .grid-container{
   display: grid;
   grid-template-rows: 2fr 1fr;
-  grid-gap: 10%;
-  
+  grid-gap: 3%;
+  grid-template-columns: 70% 70%;
+  grid-auto-rows: minmax(50%, auto);
 }
