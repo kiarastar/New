@@ -41,5 +41,4 @@ width: 50%;
   grid-template-rows: 1fr 1fr;
   grid-gap: 3%;
   grid-template-columns: 70% 70%;
-  grid-auto-rows: minmax(30%, auto);
 }
