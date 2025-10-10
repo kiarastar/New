@@ -38,6 +38,6 @@ width: 50%;
 }
 .grid-container{
   display: grid;
-justify-content: center;
+justify-content: space-between;
   grid-template-rows: 2;
 }
