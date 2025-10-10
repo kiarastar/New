@@ -42,3 +42,10 @@ width: 50%;
   grid-template-columns: repeat(2, 1fr);
   justify-items: center;
 }
+
+.grid-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
