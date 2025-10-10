@@ -39,5 +39,5 @@ width: 50%;
 .grid-container{
   display: grid;
   grid-template-columns: 70% 70%;
-  grid-template-rows: auto;
+  grid-template-rows: 2;
 }
